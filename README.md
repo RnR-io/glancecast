@@ -1,4 +1,4 @@
-Of course. A link to the live project is a great addition. Here is the updated README with a "Live Demo" section.
+
 
 # **GlanceCast** 📟
 
